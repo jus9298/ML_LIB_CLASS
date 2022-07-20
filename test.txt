@@ -1,0 +1,5 @@
+pandas 두개의 자료형
+- series와 Dataframe
+
+iloc: 데이터를 선택 추출할 때 번호로 정보를 가져옴
+loc: 인덱스로 정보를 가져옴
